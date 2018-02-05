@@ -1,0 +1,32 @@
+html {
+    background-color: rgb(253, 227, 249);
+}
+h1 {
+    color: rgb(178, 0, 248);
+    font-size: 40px;
+}
+h2 {
+    color: rgb(70, 195, 233);
+    font-size: 30px;
+    font-family: "Rockwell", serif;
+}
+h5 {
+    color: black;
+}
+.harrypotter {
+    color: rgb(247, 73, 218);
+    font-family: "Snell Roundhand", cursive;
+    font-size: 20px;
+}
+p {
+    color: rgb(247, 73, 218);
+    font-family: "Luminari", fantasy;
+    font-size: 20px;
+}
+ul{
+    color: red;
+    background-color: black;
+    margin: 50px;
+    border-right: 50px;
+    font-family: "Chalkduster", fantasy;
+}
